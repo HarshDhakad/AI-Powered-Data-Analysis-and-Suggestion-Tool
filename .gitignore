@@ -1,3 +1,4 @@
 .streamlit/
 .devcontainer/
 **/__pycache__/
+.env
